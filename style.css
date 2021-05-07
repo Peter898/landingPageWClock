@@ -1,0 +1,79 @@
+.button-properties
+{   
+    background-color: rgba(255, 174, 0, 0.911);
+    padding: 15px 15px;
+    margin-left: 1150px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.content
+{
+    padding-left: 55px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    padding-right: 55px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color:white;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#myheader
+{   
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+#questions
+{    
+    font-size: 26px;
+}
+#misison-state
+{
+    font-size: 26px;
+    font-style: italic;
+}
+#limit
+{
+    font-style: italic;
+    font-size: 18px;
+    padding-left: 1166px;
+}
+#statement
+{   
+    font-weight: bolder;
+    font-size: 40px;
+    font-style: italic;
+}
+#encourage
+{
+    padding-left: 1035px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+#info
+{
+    font-size: 26px;
+}
+footer
+{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+body
+{
+    height: 100%;
+    margin: 0;
+    background-image: url("Pictures/nyc.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+blockquote
+{
+    padding-left: 20px;
+}
